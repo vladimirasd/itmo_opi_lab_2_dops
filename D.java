@@ -27,4 +27,8 @@ public class D implements A {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }
