@@ -19,8 +19,4 @@ public class D implements A {
     public Object pp() {
         return this;
     }
-
-    public byte oo() {
-        return 3;
-    }
 }
