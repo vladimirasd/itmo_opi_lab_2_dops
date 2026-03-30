@@ -12,6 +12,10 @@ public class G extends D {
         return 222;
     }
 
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
     public Object rr() {
         return null;
     }
@@ -32,11 +36,15 @@ public class G extends D {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
 
-    public java.util.List<String> jj() {
-        return new java.util.ArrayList<String>();
-    }
-
     public java.lang.Class qq() {
         return getClass();
+    }
+
+    public double ee() {
+        return 500.100;
+    }
+
+    public int cc() {
+        return 13;
     }
 }

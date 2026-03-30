@@ -1,4 +1,4 @@
-public class D implements A {
+public class D extends null implements A {
 
     private String b = "init";
 
@@ -20,12 +20,12 @@ public class D implements A {
         return this;
     }
 
-    public byte oo() {
-        return 3;
-    }
-
     public void aa() {
         System.out.println("Hello world!");
+    }
+
+    public byte oo() {
+        return 3;
     }
 
     public String kk() {
@@ -46,5 +46,13 @@ public class D implements A {
 
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
     }
 }
