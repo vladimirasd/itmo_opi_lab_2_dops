@@ -23,4 +23,8 @@ public class D implements A {
     public byte oo() {
         return 3;
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }

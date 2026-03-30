@@ -15,4 +15,8 @@ public class G extends D {
     public Object rr() {
         return null;
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
