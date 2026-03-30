@@ -43,4 +43,8 @@ public class D implements A {
     public long ac() {
         return 111;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
