@@ -11,4 +11,16 @@ public class G extends D {
     public long ac() {
         return 222;
     }
+
+    public Object rr() {
+        return null;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

@@ -1,4 +1,4 @@
-public class D implements A {
+public class D extends null implements A {
 
     private String b = "init";
 
@@ -18,5 +18,17 @@ public class D implements A {
 
     public Object pp() {
         return this;
+    }
+
+    public byte oo() {
+        return 3;
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public String kk() {
+        return "Yes";
     }
 }
