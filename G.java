@@ -27,4 +27,8 @@ public class G extends D {
     public double ad() {
         return 9.11;
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }

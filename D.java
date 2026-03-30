@@ -35,4 +35,8 @@ public class D implements A {
     public float ff() {
         return 0;
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }
