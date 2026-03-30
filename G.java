@@ -19,4 +19,8 @@ public class G extends D {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
