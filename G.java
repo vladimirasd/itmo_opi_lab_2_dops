@@ -23,4 +23,8 @@ public class G extends D {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public double ad() {
+        return 9.11;
+    }
 }

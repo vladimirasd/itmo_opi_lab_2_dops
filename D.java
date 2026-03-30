@@ -31,4 +31,8 @@ public class D implements A {
     public String kk() {
         return "Yes";
     }
+
+    public float ff() {
+        return 0;
+    }
 }
