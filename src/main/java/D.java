@@ -1,4 +1,4 @@
-public class D extends null implements A {
+public class D  {
 
     private String b = "init";
 
@@ -12,9 +12,6 @@ public class D extends null implements A {
         System.out.println(42);
     }
 
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
-    }
 
     public Object pp() {
         return this;
@@ -44,9 +41,6 @@ public class D extends null implements A {
         return 111;
     }
 
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
 
     public Object rr() {
         return null;
